@@ -11,10 +11,10 @@ This project is a simple e-commerce application built with JavaScript. It includ
 
 ## Demo
 
-![Main Page](./demo/1.jpg)
-![Single Product](./demo/2.jpg)
-![Cart Page](./demo/3.jpg)
-![Multiple Products in Cart](./demo/4.jpg)
+![Main Page](./frontend/demo/1.jpg)
+![Single Product](./frontend/demo/2.jpg)
+![Cart Page](./frontend/demo/3.jpg)
+![Multiple Products in Cart](./frontend/demo/4.jpg)
 
 ## Running the Application
 
